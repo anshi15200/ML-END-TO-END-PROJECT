@@ -1,0 +1,13 @@
+gunicorn
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+boto3
+sagemaker
+awscli
+ensure
+python-box
+flask
+-e .
